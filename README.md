@@ -1,1 +1,1 @@
-this code complete hummingbird2 encryed algorithem.
+this code complete hummingbird2 encryption algorithem.
